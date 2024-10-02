@@ -1,6 +1,3 @@
-
-
-
 <div align="center" width="50">
 
 <div align="center">
@@ -12,8 +9,15 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=RAZGRIZ219104&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%RAZGRIZ219104&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/RAZGRIZ219104-grey?style=flat&logo=telegram)](https://t.me/RAZGRIZ219106) <br>
+
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%RAZGRIZ219104&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false) -->
+
+[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/RAZGRIZ219106)
+[![discord badge](https://img.shields.io/badge/Discord-grey?style=flat&logo=discord)](https://discordapp.com/users/razgriz219104)
+[![skype badge](https://img.shields.io/badge/Skype-grey?style=flat&logo=skype)](https://join.skype.com/invite/live:.cid.b63ddad23958a530)
+<!-- [![linkedin badge](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile) -->
+[![twitter badge](https://img.shields.io/badge/Twitter-grey?style=flat&logo=twitter)](https://x.com/jin219104) <br>
+
 </div>
 
 <hr></hr>
@@ -52,8 +56,8 @@
 <!-- ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
+class About extends Me {
+  const myTools = {
     "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Rust", "Java", "Ruby" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
@@ -77,7 +81,7 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
-  
+
 <hr></hr>
 
 **Code Cycle**<br>
@@ -88,9 +92,7 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br> -->
 
-
-
-<!-- 
+<!--
 <div align="center" width='100%'>
   <h1><a align='center' width='100%' href="https://app.turbotrade.tech">Please Click Here!</a></h1>
 </div> -->
@@ -247,8 +249,4 @@ class About extends Me {
   </a>
 </div>
 
-
 </div>
-
-
-  
