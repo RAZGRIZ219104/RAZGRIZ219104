@@ -1,10 +1,11 @@
 <div align="center" width="50">
 
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Web3+Engineer.;8%2Byears+of+Experience+in+Fullstack+and+Web3.;Fighter+pilot+is+my+dream+job." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Web3+Engineer.;8+years+of+Experience+in+Fullstack+and+Web3.;Fighter+pilot+is+my+dream+job." alt="Typing SVG" /></a>
   </div>
     
   <strong>Freelancing & Working on Superior Web3</strong>
+  <p>You're always welcome to get in touch — I'm open and ready to collaborate anytime.</p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=RAZGRIZ219104&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/RAZGRIZ219105)
@@ -12,8 +13,19 @@
 [![teams badge](https://img.shields.io/badge/Teams-grey?style=flat&logo=microsoftteams)](https://teams.live.com/l/invite/FBAsdUh2J4tnZ1HpQI)
 [![signal badge](https://img.shields.io/badge/Signal-grey?style=flat&logo=signal)](https://signal.group/#CjQKIPd7Q7nSRFO7IitrheIsefDDKmAcriG9f6tk4ak5dLHkEhATnsIgfZSt7a8WWphW4c-G)
 
+</div>
+
   <hr></hr>
 
+## My Services
+
+- Web apps and landing sites
+- Desktop apps
+- Smart contracts
+- Crypto trading bots
+- Telegram mini bots
+
+## My Experience and Skillset
   <table align="center">
     <tr>
       <td align="center" width="90"><b>Programming<br>Languages</b></td>
@@ -182,6 +194,8 @@
       </td>
     </tr>
   </table>
+
+## My Stats
 
   <p align="center">
     <a href="https://github.com/RAZGRIZ219104?tab=repositories">
