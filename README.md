@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;8%2Byears+of+Experience+in+Fullstack+and+Blockchain." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Web3+Engineer.;8%2Byears+of+Experience+in+Fullstack+and+Web3.;Fighter+pilot+is+my+dream+job." alt="Typing SVG" /></a>
   </div>
     
-  <strong>Freelancing & Working on Superior Crypto.</strong>
+  <strong>Freelancing & Working on Superior Web3</strong>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=RAZGRIZ219104&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/RAZGRIZ219105)
